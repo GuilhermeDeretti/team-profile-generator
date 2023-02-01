@@ -1,6 +1,6 @@
 # team-profile-generator
 
-A command-line application that dynamically generates a team profile HTML file using Node.js,  Inquirer and Jest for testing the application.
+A command-line application that dynamically generates a team profile HTML file using Node.js,  Inquirer for taking imput and Jest for testing the application.
 
 ## Prerequisites
 Node.js must be installed on your machine.        
